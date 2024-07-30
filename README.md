@@ -6,7 +6,7 @@
    <a href="https://blog.csdn.net/u014070965"><img src="https://img.shields.io/badge/CSDN-%E7%A7%91%E5%B2%A9-orange.svg" alt="CSDN"></a>
   <a href="https://github.com/imKeYan/EmbedBooks"><img src="https://img.shields.io/badge/PDF-%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%BB%8F%E5%85%B8-lightgrey.svg" alt="经典PDF"></a>
 </p>
-
+<h1 align="center">密码4201</h1>
 本仓库无偿分享优质计算机知识书籍、**PDF**资料以及个人笔记等，主要围绕**嵌入式**、**单片机**及**Linux**领域，希望能够帮助新手、小白节约查找资料的时间，过滤含金量不高的信息，为迷茫的朋友指一条「慢即是快」的「捷径」。
 
 如果你也像我刚毕业那会儿，不知道该看哪些书，不知道如何取舍，今天觉得这个语言好，明天又觉得那个技术新，学了三分钟，后天又自问“我为什么要学？”
